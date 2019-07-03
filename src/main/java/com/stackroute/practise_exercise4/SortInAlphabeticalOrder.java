@@ -1,6 +1,7 @@
 package com.stackroute.practise_exercise4;
 
 public class SortInAlphabeticalOrder {
+    //sort all the strings in alphabetical order
     public static String sortStringsInAlphabeticalOrder(String string) {
         String temp = "";
         String str="";

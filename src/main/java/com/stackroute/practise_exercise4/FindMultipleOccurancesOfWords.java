@@ -4,6 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class FindMultipleOccurancesOfWords {
+    //method to the position of occurance of the given substring in he input
     public static String positionOfOccurance(String input, String givenWord) {
         if(input.length()>1 ) {
             String output = "";

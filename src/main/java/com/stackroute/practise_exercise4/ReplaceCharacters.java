@@ -1,6 +1,7 @@
 package com.stackroute.practise_exercise4;
 
 public class ReplaceCharacters {
+    //method to replace d with f and l with t
     public static String replaceCharactersInAString(String string) {
         if (string.equals(" ")) {
             return "null";
